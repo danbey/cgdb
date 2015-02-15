@@ -1,0 +1,3 @@
+[submodule "cgdb"]
+	path = cgdb
+	url = git://github.com/cgdb/cgdb.git
